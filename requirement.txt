@@ -1,0 +1,3 @@
+pip install tqdm
+pip install pandas
+pip install rdflib
